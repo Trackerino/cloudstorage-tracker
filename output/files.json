@@ -336,6 +336,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "5211a1dbda8c422d940de277ff124585",
+      "filename": "DefaultSproutTG_RiotFly_Gameplay.ini",
+      "hash": "025be5abe7e7d2c2e64524f080d8031e38d3f384",
+      "hash256": "3e2b9afbf3f1db16b378a11fd45b67e13e9f807bb76d8acdf994bc103ab501ee",
+      "length": 135,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-05-02T17:35:37.618Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/25a79bb7b54f4b4a8168f7ff9d7f4757-5211a1dbda8c422d940de277ff124585"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "c4d901de2aa5427f85734b6a85aa2000",
       "filename": "DeviceProfiles.ini",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
