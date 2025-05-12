@@ -1,0 +1,19 @@
+{
+   "ValkyrieEditorSettings": {
+      "AllowedMenus": {},
+      "AllowedClasses": {
+         "/Script/CreativeCommunicationUI.CreativeBubbleChatViewModel": {
+            "Visible": false
+         }
+      },
+      "PropertyEditorClassPermissionList": {
+         "/Script/CreativeCommunicationUI.CreativeBubbleChatViewModel": {
+            "AllowList": {
+               "=": [
+                  "_DISALLOWALL_"
+               ]
+            }
+         }
+      }
+   }
+}
