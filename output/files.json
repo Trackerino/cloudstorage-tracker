@@ -1022,6 +1022,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "f4a8fc81144d44529fa504e068df5a26",
+      "filename": "Switch2_FMCalibrationGame.ini",
+      "hash": "97e37a724258c58c663f5c3035a3f46a334671b4",
+      "hash256": "b484e2daf4c839be6568fb79c2eecac1b0ebbb33e754b9d4208df8132e77188e",
+      "length": 60,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-06-04T23:33:12.198Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a0dc62af929b4b8b9fc0e177163b6b5d-f4a8fc81144d44529fa504e068df5a26"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "1d2228689c594fd0b31a9d18557e6715",
       "filename": "Switch2_Game.ini",
       "hash": "232297a785f661aba3b57fc2d199b51d4ee65cd3",
