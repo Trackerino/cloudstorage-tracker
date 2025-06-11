@@ -924,6 +924,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "4235f34e9ea24838bf3b752477f1071e",
+      "filename": "PS5_SproutNativeEngine.ini",
+      "hash": "3bebbe83c03cd6b4bb1aed118c0b1bb99a86b3dc",
+      "hash256": "c1a8e0d4e427d255195593a6ee3fd678a1294832a3b03b89031e0499b07dbaa7",
+      "length": 53,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-06-11T16:55:38.924Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/5965dc3945db4c5d81f5f76c12c3c388-4235f34e9ea24838bf3b752477f1071e"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "248d9bec1311419b81f08df4e1473940",
       "filename": "PS5JunoGameNativeDeviceProfiles.ini",
       "hash": "29058608688e3dd6f1b6ca97686b88c74f57661e",
@@ -1396,6 +1410,20 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/0f6e0eafb8fc4f948a1898187b3d47de-15326849197846eab3fd92a3aaa59b9e"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "20cfd88c92834f579ee7f53bd3e290bc",
+      "filename": "XSX_SproutNativeEngine.ini",
+      "hash": "3bebbe83c03cd6b4bb1aed118c0b1bb99a86b3dc",
+      "hash256": "c1a8e0d4e427d255195593a6ee3fd678a1294832a3b03b89031e0499b07dbaa7",
+      "length": 53,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-06-11T16:55:39.168Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/662a75ef573e487882b57e3f82854396-20cfd88c92834f579ee7f53bd3e290bc"
       },
       "doNotCache": false
    },
