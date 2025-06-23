@@ -1190,6 +1190,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "c3847bf6131748d6a81a7f567b374f99",
+      "filename": "Switch2_RuntimeOptions.ini",
+      "hash": "0983952ce609d706065002e24b675176a7b66d0e",
+      "hash256": "69877bc5c5ea2325dcd3fc02b5a6b3e8504feef5c70ec8daf1c95b0a11e7bd75",
+      "length": 76,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-06-23T17:59:30.101Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/0cd9601613b7489181da8a2fbd67affc-c3847bf6131748d6a81a7f567b374f99"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "dc8b801fbd8b469ba4ea7911a7e6e026",
       "filename": "SwitchDelMarGameEngine.ini",
       "hash": "f029264d623a4c8c9276d82263d9f94ba94806cf",
