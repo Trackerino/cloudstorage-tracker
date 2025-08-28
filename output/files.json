@@ -546,6 +546,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "176ce1d7f7774773b2db2e909212b8da",
+      "filename": "DelMarCoreGame.ini",
+      "hash": "d08de93861e1385531d5e79670223ba4c3333200",
+      "hash256": "6fcbc1296590d533bc27685df69baabea680ec77d2a66cef9990a258d24b33ce",
+      "length": 84,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-08-28T18:29:28.607Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/54ada616bb2442f5bfb79f878898baea-176ce1d7f7774773b2db2e909212b8da"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "c4d901de2aa5427f85734b6a85aa2000",
       "filename": "DeviceProfiles.ini",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
