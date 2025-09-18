@@ -1,0 +1,24 @@
+{
+   "FileVersion": 1,
+   "SentryManifests": [
+      {
+         "GameFeatureSets": [
+            "SolidWaveGFS",
+            "DarkVortexGFS",
+            "MeltedIronGFS"
+         ],
+         "-": {
+            "AssetAllowLists": {
+               "VKCreateUGC": [
+                  "/CRD_AIPrompt/SetupAssets/PID_CP_Devices_AIPrompt.PID_CP_Devices_AIPrompt"
+               ]
+            },
+            "BlueprintAllowLists": {
+               "VKCreateUGC": [
+                  "/CRD_AIPrompt/Device_AIPrompt.Device_AIPrompt_C"
+               ]
+            }
+         }
+      }
+   ]
+}
