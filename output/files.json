@@ -1344,6 +1344,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "5f12050fa4684863b74e1d6cf9a07834",
+      "filename": "Switch_SproutNativeEngine.ini",
+      "hash": "b7d906ba4a3256a1472c9ba95f1881cfe336aa6b",
+      "hash256": "83f4c74257a614a3123e11f51b5c5983e54d2105896e463c1e1f2b039bd05829",
+      "length": 154,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-09-23T15:22:02.215Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/3df8f292b55844b8b0d98a38a9302eb9-5f12050fa4684863b74e1d6cf9a07834"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "3391a26843124750be0b74328b59bf62",
       "filename": "Switch2_DelMarGameEngine.ini",
       "hash": "88b0242941812a9ba30508fedbafd16aca792330",
