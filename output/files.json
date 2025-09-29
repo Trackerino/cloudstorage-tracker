@@ -1232,6 +1232,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "eb889cd66a774fb0b2aa1d67e0241a7b",
+      "filename": "PS5_StrideMiceGameEngine.ini",
+      "hash": "bc23b7ed425d108c35246c21d4a2a1fcfcf1d23d",
+      "hash256": "6b4907d884de6dc2f84938720c15506a61b2fb9bdd096a791d7aa94e7ef34ff8",
+      "length": 67,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-09-29T19:26:04.107Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/5d845cf9343f49c5b614e0ac10485811-eb889cd66a774fb0b2aa1d67e0241a7b"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "248d9bec1311419b81f08df4e1473940",
       "filename": "PS5JunoGameNativeDeviceProfiles.ini",
       "hash": "29058608688e3dd6f1b6ca97686b88c74f57661e",
