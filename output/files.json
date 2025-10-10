@@ -1,5 +1,19 @@
 [
    {
+      "uniqueFilename": "7742dfde70b14bc181170c9f825bd814",
+      "filename": "Android_DeluluGame.ini",
+      "hash": "9c0320f02bdfc588b24825fdbbe41380b3f4b432",
+      "hash256": "e082c9e789f567d0b750573239570a52c0626642c25bcef44163b6678b16a016",
+      "length": 55,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-10-10T21:22:42.403Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/36b5165d727f4e2984201919a7315e4c-7742dfde70b14bc181170c9f825bd814"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "9626257880174145aa5aacfe11324c8e",
       "filename": "Android_Engine.ini",
       "hash": "adda745ac3050e0f305cd095ceeeea079cc7bf88",
@@ -808,6 +822,20 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/0111e6d7d3a240d6b0e52f4fd3c9d80d-919e99607d9f4e92b34b9a0a14cbe8ad"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "c59a94acaf12483eaad5d96d8423a4df",
+      "filename": "IOS_DeluluGame.ini",
+      "hash": "9c0320f02bdfc588b24825fdbbe41380b3f4b432",
+      "hash256": "e082c9e789f567d0b750573239570a52c0626642c25bcef44163b6678b16a016",
+      "length": 55,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-10-10T21:22:42.719Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/54cb8c9c834546638afe36210ca5e8c3-c59a94acaf12483eaad5d96d8423a4df"
       },
       "doNotCache": false
    },
