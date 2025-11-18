@@ -112,6 +112,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "c762e5f83d274a2aa4be9f9346bf00e8",
+      "filename": "BaseDeviceProfiles.ini",
+      "hash": "099dbce8cb5c2eb3fe492a5f6b40cf766c8f4a35",
+      "hash256": "959b9f1f16eb62b51502e05a77d98808a7bb91e793ee1f858cdf9a3420d8d430",
+      "length": 314,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-11-18T15:55:40.412Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/2296cd10745a44bda3ea320d97427714-c762e5f83d274a2aa4be9f9346bf00e8"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "7c6b925861e14f6a9464ec4388b46dd0",
       "filename": "DefaultBeanstalkGFSEngine.ini",
       "hash": "65c0bea1ee012f541708f857d55404450a49d27e",
@@ -198,14 +212,14 @@
    {
       "uniqueFilename": "c7dee411e20a44ab930f841e8d206b1b",
       "filename": "DefaultDeviceProfiles.ini",
-      "hash": "b7cc688fdd6e068a7ff5d99bbcfa0dd5fb27389f",
-      "hash256": "36cecc8a13b078635acec563726e3068f3b262d812506a1a3b5b1e82fed2ced7",
-      "length": 644,
+      "hash": "5daf9827819976d4e712ebb62d76675faf1ce72d",
+      "hash256": "60fa009accba5b0e4f3c3b6a2f9e98cc249dd3da4c8629b0d2449da5b4064589",
+      "length": 1236,
       "contentType": "application/octet-stream",
-      "uploaded": "2025-11-18T11:21:16.574Z",
+      "uploaded": "2025-11-18T15:55:40.715Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/08711867848a4b248869b54525637a47-c7dee411e20a44ab930f841e8d206b1b"
+         "DSS": "cloudstorage/Live/system/1/f4baf44a1a4846359dfdb0b8db618373-c7dee411e20a44ab930f841e8d206b1b"
       },
       "doNotCache": false
    },
