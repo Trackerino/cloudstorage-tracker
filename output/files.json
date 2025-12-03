@@ -1316,6 +1316,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "83926440fad54ba9bc3b0658420168b9",
+      "filename": "PS5_VkPlayEngine.ini",
+      "hash": "55cbf879a490687cc06550218bf4165588441230",
+      "hash256": "730419efc849330f45c861dcecc9d56903d3bcb80ae7ff0ed002b416a1131d7f",
+      "length": 41,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-12-03T20:57:47.354Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/0bab3a683c1f41f09eb8dfadd7bf0eee-83926440fad54ba9bc3b0658420168b9"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "248d9bec1311419b81f08df4e1473940",
       "filename": "PS5JunoGameNativeDeviceProfiles.ini",
       "hash": "29058608688e3dd6f1b6ca97686b88c74f57661e",
