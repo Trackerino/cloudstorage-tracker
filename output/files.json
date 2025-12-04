@@ -1682,14 +1682,14 @@
    {
       "uniqueFilename": "49dc0a25becb4f5fb6745cd1a8c555ca",
       "filename": "ValkyrieSentryManifestHotfix.json",
-      "hash": "6a871f9e829d61aade593db3e22dcce43ec93313",
-      "hash256": "d5991ac72ed693b487b3cb15906e02e93e48e076ab90c853dbefd246df4e1b0c",
-      "length": 4496,
+      "hash": "80b842a8088872077521bbf9481f7fc5a37ba561",
+      "hash256": "03d6ce15ab9ef417157b5895647b8eae7d0e0f60b00cfd454e72d14152c4d610",
+      "length": 4661,
       "contentType": "application/octet-stream",
-      "uploaded": "2025-11-24T22:17:21.839Z",
+      "uploaded": "2025-12-04T16:55:44.379Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/65a6e4286211412aa9f222093b524610-49dc0a25becb4f5fb6745cd1a8c555ca"
+         "DSS": "cloudstorage/Live/system/1/d39490bfac1b4d42ba75d5ceb8b42888-49dc0a25becb4f5fb6745cd1a8c555ca"
       },
       "doNotCache": false
    },
