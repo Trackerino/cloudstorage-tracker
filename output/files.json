@@ -1974,6 +1974,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "9ee892fa34b34e978e1aef292a408d1b",
+      "filename": "XSX_VkPlayEngine.ini",
+      "hash": "909116ab0333f209c87e9b08de56c44258abc1f4",
+      "hash256": "b65c183a968183d40cc4dc768ed5093cc590328c1b5eb1f2f4612d8bb81b0303",
+      "length": 59,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-12-04T19:14:09.631Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/8d7b79edeb2046b7a1ba266295893349-9ee892fa34b34e978e1aef292a408d1b"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "311cc2f8c6fa4998b2f115ac52a70f9c",
       "filename": "XSXJunoGameNativeDeviceProfiles.ini",
       "hash": "29058608688e3dd6f1b6ca97686b88c74f57661e",
