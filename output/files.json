@@ -1584,14 +1584,14 @@
    {
       "uniqueFilename": "7d524f65b03a49b88d3e5d5268480f1f",
       "filename": "ValkyrieFortniteEditorPermissions.json",
-      "hash": "74f3661e9f9845625d3f4340637a72d878a6793c",
-      "hash256": "d64ddc62cf6fb8d057ea52b4ae097e969635cd1996c934f08c3d154024ae37d0",
-      "length": 233,
+      "hash": "632c122b559296c631a2cef61ef4adc8fdcd42e3",
+      "hash256": "ebbe52d2243faa27a6629aa782b6c39bc20e903a741124d17bb71ddccf91bad9",
+      "length": 349,
       "contentType": "application/octet-stream",
-      "uploaded": "2025-09-10T19:56:48.813Z",
+      "uploaded": "2025-12-15T21:19:51.006Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/7a79f7f4d7084bea9aab99a14a6b520c-7d524f65b03a49b88d3e5d5268480f1f"
+         "DSS": "cloudstorage/Live/system/1/8a2ba623ab8b4681a56171e7a6d555cd-7d524f65b03a49b88d3e5d5268480f1f"
       },
       "doNotCache": false
    },
