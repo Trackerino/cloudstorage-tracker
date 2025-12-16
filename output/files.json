@@ -1176,6 +1176,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "5df228a8445e4a13a02f2ee82f774816",
+      "filename": "PS4_VkPlayDeviceProfiles.ini",
+      "hash": "50a3b09a3a6c5ead5b5ba2b1ca4463f357488b7d",
+      "hash256": "444009eba53b68dadedf7931d10cdc7a7b1220a19dba85009912735906d76788",
+      "length": 107,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-12-16T19:48:06.047Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/81c2d7bb0fab408e96421f3c2c87b6bb-5df228a8445e4a13a02f2ee82f774816"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "b373c417c9564c6792927bde2dbbfab4",
       "filename": "PS5_DeluluGame.ini",
       "hash": "fe268657ed1706149f31efc6f22bb23d93bb93b7",
