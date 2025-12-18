@@ -1470,6 +1470,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "3f6cddd08c354eceb133c35c22f10b0c",
+      "filename": "Switch_VkPlayDeviceProfiles.ini",
+      "hash": "83969128a15451a1f36cec7bb96389fc904869de",
+      "hash256": "61729aaba296b79670f0c79cf8140acec916599f9a9f45da4aaede8090df4bd8",
+      "length": 54,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-12-18T20:59:41.864Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/bfb2ee2f6336448d8015fcf4ff78d795-3f6cddd08c354eceb133c35c22f10b0c"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "b1604c5255f245f0bdcd8d5082fafaff",
       "filename": "Switch_VkPlayEngine.ini",
       "hash": "3b65c6e00f118b690162b070b29b234bffe264c7",
@@ -1802,6 +1816,20 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/39f79ad8e8bb4222853481f8eeffa7c2-6c33ead15c254f0da675c8c5aef79e84"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "7df0d9a7751d4252a3c70b68c0403b9a",
+      "filename": "XB1_VkPlayDeviceProfiles.ini",
+      "hash": "b827a0263af920b70537c4fbf3cf5eda234f34d8",
+      "hash256": "7e58df65d2eb0973a4a9b98f9efde08b9ff4bf4496a175165b07c0de545a4d9e",
+      "length": 220,
+      "contentType": "application/octet-stream",
+      "uploaded": "2025-12-18T20:59:42.117Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/ba680ec1a6a4453bab11fcfdd30f31c1-7df0d9a7751d4252a3c70b68c0403b9a"
       },
       "doNotCache": false
    },
