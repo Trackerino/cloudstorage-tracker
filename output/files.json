@@ -518,6 +518,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "0391649d2d5045a49e0549975aa06b7f",
+      "filename": "WindowsClient_VkPlayEngine.ini",
+      "hash": "64c44fcba4991cb914c94c148b8a8941a2e7ea69",
+      "hash256": "29352785e84e3bb6640d9428583821741c51055f1d84f532fd2b606dd939509b",
+      "length": 33,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-03-19T21:04:31.272Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/af98b466fcc047b98a260fc01eba77e2-0391649d2d5045a49e0549975aa06b7f"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "ba1921826e5a487cb3b48dafb4e04585",
       "filename": "XB1_Engine.ini",
       "hash": "a29324c3a09fbb433cd181f754c32071e1a6f0d4",
