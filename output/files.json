@@ -518,6 +518,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "3afdc24d907e4daf8227b027c3c063c7",
+      "filename": "WindowsClient_VkEditEngine.ini",
+      "hash": "64c44fcba4991cb914c94c148b8a8941a2e7ea69",
+      "hash256": "29352785e84e3bb6640d9428583821741c51055f1d84f532fd2b606dd939509b",
+      "length": 33,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-03-21T12:08:21.939Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/643db7347b574824bc657783583ad802-3afdc24d907e4daf8227b027c3c063c7"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "0391649d2d5045a49e0549975aa06b7f",
       "filename": "WindowsClient_VkPlayEngine.ini",
       "hash": "64c44fcba4991cb914c94c148b8a8941a2e7ea69",
