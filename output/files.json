@@ -238,6 +238,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "00906f4eafb84304a3e185042162e327",
+      "filename": "DefaultOrangeRemote_AllDayEventGame.ini",
+      "hash": "322d27111a800bea895af08dd4bc021ad6358c53",
+      "hash256": "3645e0dd836a959dc68ab2568cb857b86004f61c2a2d59779ae1115a39457420",
+      "length": 3467,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-06-08T16:17:37.537Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/d1d2eb99a55d482c8ef2e0018f642c58-00906f4eafb84304a3e185042162e327"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "1ea056ac6f4a40a4abd60613cb97b0e1",
       "filename": "DefaultPH_Empty_AGame.ini",
       "hash": "f6b081bda37f4332afc793c8a7ed687a8dbfba7a",
@@ -444,20 +458,6 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/4e5514fc0de440408496dc82585a9a7d-367222eccaea4723be5c34939effcca1"
-      },
-      "doNotCache": false
-   },
-   {
-      "uniqueFilename": "2f541885a2864f6d913456a36777abbb",
-      "filename": "OrangeRemote_AllDayEventGame.ini",
-      "hash": "322d27111a800bea895af08dd4bc021ad6358c53",
-      "hash256": "3645e0dd836a959dc68ab2568cb857b86004f61c2a2d59779ae1115a39457420",
-      "length": 3467,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-06-07T16:55:59.404Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/17274fd029ee4ee69f04d16e2356f924-2f541885a2864f6d913456a36777abbb"
       },
       "doNotCache": false
    },
