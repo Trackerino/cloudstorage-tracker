@@ -350,6 +350,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "229ae09b926b48379b9f09510945ffbe",
+      "filename": "DefaultVKPlayMinimumRootGame.ini",
+      "hash": "f8872c8917a3b57a11e7c66be50e33dd4563385a",
+      "hash256": "11fa4c66650a3462d2e69359dcd1d95b0de6f0c564ba19500cb45bfe4a4582bb",
+      "length": 160476,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-06-10T23:36:00.503Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a416632d9a6f4e31b9f664c3e15b4c3f-229ae09b926b48379b9f09510945ffbe"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "6549646f938f41f0b265173a358fb495",
       "filename": "GFN_Engine.ini",
       "hash": "113f3b9eb0280588c648057fb58d0338f46155eb",
