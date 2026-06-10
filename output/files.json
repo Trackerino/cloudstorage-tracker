@@ -56,6 +56,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "657cda26e01e4ffa93f3a0deffc5402e",
+      "filename": "DefaultBattleRoyaleContentGame.ini",
+      "hash": "f8872c8917a3b57a11e7c66be50e33dd4563385a",
+      "hash256": "11fa4c66650a3462d2e69359dcd1d95b0de6f0c564ba19500cb45bfe4a4582bb",
+      "length": 160476,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-06-10T22:28:01.977Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/35e1fc9454924248a22e9e41fa0e2590-657cda26e01e4ffa93f3a0deffc5402e"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "f60cbea9f6d24c5a855056088b15f447",
       "filename": "DefaultBlastberryGame.ini",
       "hash": "db0ca6899e50109343c6c6d49d78c10f64c0773b",
