@@ -336,6 +336,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "0c306e5d4c1b439385e219abece577da",
+      "filename": "DefaultVKEditGame.ini",
+      "hash": "f8872c8917a3b57a11e7c66be50e33dd4563385a",
+      "hash256": "11fa4c66650a3462d2e69359dcd1d95b0de6f0c564ba19500cb45bfe4a4582bb",
+      "length": 160476,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-06-11T00:00:40.660Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a3eb9efb193548d58fecf0a86b8c8339-0c306e5d4c1b439385e219abece577da"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "25e455bec25948e9be4ec696c10a5ce8",
       "filename": "DefaultVkPlayEngine.ini",
       "hash": "4395c8053e096614a35d36b30c091cca5c1bf1df",
