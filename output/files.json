@@ -294,6 +294,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "0eeeb82619d84227868665b760cb6c15",
+      "filename": "DefaultPH_OrangeRemote_Week1Game.ini",
+      "hash": "9dacde69c8fb76d72c937078c4ab4a25a330a0fb",
+      "hash256": "3311a661265a1087445275d6eabc0b915370594dc24ee7e5872864cba3d9b8f1",
+      "length": 2953,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-06-12T18:43:32.630Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/9c3cffc78ae247efbfa2ef62305363a4-0eeeb82619d84227868665b760cb6c15"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "34f28e89a2654e14bb4f3a8204c3fb49",
       "filename": "DefaultPilgrimCoreEngine.ini",
       "hash": "f6d27d67c3a5f160a5be39e3edf1af5fde11576b",
