@@ -140,6 +140,62 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "4a466d4ef6b24f23a39551988feda9a8",
+      "filename": "DefaultEvent_OrangeRemote_BlueGame.ini",
+      "hash": "339752da539d99d7439ca0d8c67127bc5cbd5976",
+      "hash256": "5467310cfbd04230aa93466fc89546a9323e79820f10a0282807de42664454d1",
+      "length": 667,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-14T20:59:14.829Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/6521270a21d9479297ab764156cbe863-4a466d4ef6b24f23a39551988feda9a8"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "2a24156c8f0249ebab63cfe86eeb26e6",
+      "filename": "DefaultEvent_OrangeRemote_GreenGame.ini",
+      "hash": "339752da539d99d7439ca0d8c67127bc5cbd5976",
+      "hash256": "5467310cfbd04230aa93466fc89546a9323e79820f10a0282807de42664454d1",
+      "length": 667,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-14T20:59:15.124Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/f4535c83a2c64ab69c1ee2001f2a81fa-2a24156c8f0249ebab63cfe86eeb26e6"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "03ef4a0825154fa2b12980d410b1507a",
+      "filename": "DefaultEvent_OrangeRemote_RedGame.ini",
+      "hash": "339752da539d99d7439ca0d8c67127bc5cbd5976",
+      "hash256": "5467310cfbd04230aa93466fc89546a9323e79820f10a0282807de42664454d1",
+      "length": 667,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-14T20:59:15.436Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/78504274c6c748a48232b6ace803939d-03ef4a0825154fa2b12980d410b1507a"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "0fd4a95ad23343c7af65887a46040f94",
+      "filename": "DefaultEvent_OrangeRemote_YellowGame.ini",
+      "hash": "339752da539d99d7439ca0d8c67127bc5cbd5976",
+      "hash256": "5467310cfbd04230aa93466fc89546a9323e79820f10a0282807de42664454d1",
+      "length": 667,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-14T20:59:15.824Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/fe265eb661e34da78a7c9f9b56f61bec-0fd4a95ad23343c7af65887a46040f94"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "11004a8a0bc3435ba3a6a38a73358f15",
       "filename": "DefaultFigmentCoreGame.ini",
       "hash": "b76833bff65dc3b3b3681d41d8b3527fb88af28c",
@@ -170,14 +226,14 @@
    {
       "uniqueFilename": "a22d837b6a2b46349421259c0a5411bf",
       "filename": "DefaultGame.ini",
-      "hash": "045cd7c0d578a2f39d313f75dd1b13e88f0c3438",
-      "hash256": "6472487ba5429b95e173c4fc79b2c7ec57eb521130cb2b12aec673d817298f97",
-      "length": 675129,
+      "hash": "93f134015902833989dbeb118973b662f77741e9",
+      "hash256": "817a80224d2941b66b1dd303add7f2896e09c4880486644e66e8c199b8e87dab",
+      "length": 691169,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-14T20:09:16.940Z",
+      "uploaded": "2026-08-14T20:59:16.315Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/3de73effa5174c7c928245f7d961a9e7-a22d837b6a2b46349421259c0a5411bf"
+         "DSS": "cloudstorage/Live/system/1/5e09305f08f3447abea764dd4109f15c-a22d837b6a2b46349421259c0a5411bf"
       },
       "doNotCache": false
    },
