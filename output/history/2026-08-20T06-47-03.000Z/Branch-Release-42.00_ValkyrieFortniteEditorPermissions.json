@@ -1,0 +1,15 @@
+{
+   "ValkyrieEditorSettings": {
+      "AllowedEditorPreferencesSections": {
+         "Plugins": {
+            "Names": {
+               "-": [
+                  "MCP Toolset Servers",
+                  "Semantic Search",
+                  "ToolsetRegistrySettings"
+               ]
+            }
+         }
+      }
+   }
+}
