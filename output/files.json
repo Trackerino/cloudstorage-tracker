@@ -336,6 +336,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "93d09611caab4dbe868595edc57ba369",
+      "filename": "DefaultNexusGame.ini",
+      "hash": "02047fd8d18cfc9ea3ea07d9c825d2f064a2b429",
+      "hash256": "cdb58ec5b11cbb319eca59614f14f73bd7ec3a1c108f7ee772b9790d312ee6cc",
+      "length": 59,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-26T18:46:31.190Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/1ce0a443ff9f432285057d2a8bf9bd60-93d09611caab4dbe868595edc57ba369"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "00906f4eafb84304a3e185042162e327",
       "filename": "DefaultOrangeRemote_AllDayEventGame.ini",
       "hash": "75393a33f64b532f0d27388b3118b25ca113fb12",
