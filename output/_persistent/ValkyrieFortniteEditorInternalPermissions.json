@@ -1,0 +1,22 @@
+{
+   "ValkyrieEditorSettings": {
+      "AllowedTabs": {
+         "MaterialEditor": {
+            "AllowList": {
+               "+": [
+                  "VerseTypeAssetInterop_ClassSettingsTab",
+                  "VerseTypeAssetInterop_VariablesTab"
+               ]
+            }
+         },
+         "MaterialInstanceEditor": {
+            "AllowList": {
+               "-": [
+                  "VerseTypeAssetInterop_ClassSettingsTab",
+                  "VerseTypeAssetInterop_VariablesTab"
+               ]
+            }
+         }
+      }
+   }
+}

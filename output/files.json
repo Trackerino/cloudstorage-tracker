@@ -826,6 +826,34 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "84e78f0c787f43ed916dbe63c2dd9880",
+      "filename": "ValkyrieFortniteEditorInternalPermissions.json",
+      "hash": "b736a3fcce7a4b3f8c76f927d83658829a902bf9",
+      "hash256": "231e19d1eab60942ed26e09c75353e408460dd59207096582b97f456c08a186c",
+      "length": 451,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-27T22:42:25.911Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/503d96dd83144ee9868f31c0c8d2d3bd-84e78f0c787f43ed916dbe63c2dd9880"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "bc1b3709e0094a799897981a04b76108",
+      "filename": "ValkyrieFortniteEditorPermissions.json",
+      "hash": "de6de06ce1dbebdc4cc6c1b32bfdf86819e6715c",
+      "hash256": "1ead5c82bf62bfea4f8e09db222690262bde88cee6fe5748fc69a896bfa9ae42",
+      "length": 737,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-08-27T22:42:26.153Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/06cda7fd188541d1b5157eb342602764-bc1b3709e0094a799897981a04b76108"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "49dc0a25becb4f5fb6745cd1a8c555ca",
       "filename": "ValkyrieSentryManifestHotfix.json",
       "hash": "955ae2f8e2a80e443f016272d8f342fc82b3613b",

@@ -1,0 +1,26 @@
+{
+   "ValkyrieEditorSettings": {
+      "AllowedTabs": {
+         "MaterialEditor": {
+            "AllowList": {
+               "+": [
+                  "Document",
+                  "MaterialEditor_Preview",
+                  "MaterialEditor_MaterialProperties",
+                  "MaterialEditor_Palette",
+                  "MaterialEditor_NamedReroutes",
+                  "MaterialEditor_Find",
+                  "MaterialEditor_PreviewSettings",
+                  "MaterialEditor_ParameterDefaults",
+                  "MaterialEditor_CustomPrimitiveData",
+                  "MaterialEditor_Substrate",
+                  "MaterialEditor_MaterialExpressionOverview",
+                  "MaterialInstanceEditor_MaterialLayerProperties",
+                  "MaterialStats_Grid",
+                  "OldMaterialStats_Grid"
+               ]
+            }
+         }
+      }
+   }
+}
