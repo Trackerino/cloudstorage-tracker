@@ -42,20 +42,6 @@
       "doNotCache": false
    },
    {
-      "uniqueFilename": "547c5ac83c3247c18178d5dc0b0a168c",
-      "filename": "Branch-Release-42.00_ValkyrieFortniteEditorPermissions.json",
-      "hash": "29e5cbfec5135b0bd629dae39e2fb397e1aee930",
-      "hash256": "19a22f990186a19b7f78e6158f1b1e0055b108905bc9318bd0820f94d855a79c",
-      "length": 204,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T06:45:38.591Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/f1ce4728d05147d0b68fa067403054cb-547c5ac83c3247c18178d5dc0b0a168c"
-      },
-      "doNotCache": false
-   },
-   {
       "uniqueFilename": "79904251d39a4b31a9f947dcdd835199",
       "filename": "DefaultAkitaGFSEngine.ini",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
@@ -72,14 +58,14 @@
    {
       "uniqueFilename": "f60cbea9f6d24c5a855056088b15f447",
       "filename": "DefaultBlastberryGame.ini",
-      "hash": "df2c669156464f66d1863a8ee6a7275ae00b51ba",
-      "hash256": "e35c7452aa4ff8fa62640f4057be7485b2fb5437853978e33fa287a18b24c5f8",
-      "length": 33925,
+      "hash": "b0941e8ccb54bb7cdfe0e51d63a51e3d31728072",
+      "hash256": "4ca44728077c0475a3a877e1143f9858b7dbbc9d00434b0cade4a373894a1fc6",
+      "length": 35103,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-24T13:01:03.848Z",
+      "uploaded": "2026-09-03T08:04:27.823Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/410aa28f0ccb49b6931d07e63a4b04dd-f60cbea9f6d24c5a855056088b15f447"
+         "DSS": "cloudstorage/Live/system/1/257a1186f715418a9af62c71ba8d1ad3-f60cbea9f6d24c5a855056088b15f447"
       },
       "doNotCache": false
    },
@@ -114,14 +100,14 @@
    {
       "uniqueFilename": "3460cbe1c57d4a838ace32951a4d7171",
       "filename": "DefaultEngine.ini",
-      "hash": "a3ec94489b81d5652d31dd58ad31260ad3978124",
-      "hash256": "80f036a0c98b7fdf3b7398365f5bdf9ae4144cabfd866af8b38577a62f836454",
-      "length": 12101,
+      "hash": "5134a0ff53d0d7f17c9e31dea00c6af9395de8d2",
+      "hash256": "615b0ec36beac3dd816a6cc18d567f0ec4de35c53cc0b86f508aa0c9ae28ac4a",
+      "length": 11998,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-27T13:00:10.866Z",
+      "uploaded": "2026-09-03T08:04:28.745Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/7fb1b1fe94cd4c43ba738aebeff409f3-3460cbe1c57d4a838ace32951a4d7171"
+         "DSS": "cloudstorage/Live/system/1/06841004d88a43098ae4b982ee81794c-3460cbe1c57d4a838ace32951a4d7171"
       },
       "doNotCache": false
    },
@@ -184,14 +170,14 @@
    {
       "uniqueFilename": "11004a8a0bc3435ba3a6a38a73358f15",
       "filename": "DefaultFigmentCoreGame.ini",
-      "hash": "6acba51d1086b3ea007057379f73c1541e6990e3",
-      "hash256": "875084f273c03ce72e32ca9bf02382e8bb9880c41775128ae8704643b5c29164",
-      "length": 3770,
+      "hash": "33a4f6d9c2873bcb08bc6848b2f0c373ee9678a4",
+      "hash256": "188e614773f3fea5632652d628a342fc4e0a00b2ef399788439c9adca597bf3e",
+      "length": 5460,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-29T20:41:40.027Z",
+      "uploaded": "2026-09-03T08:04:29.522Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/eab0e8a73b48497584128d3975604da5-11004a8a0bc3435ba3a6a38a73358f15"
+         "DSS": "cloudstorage/Live/system/1/00af6b735db24d7697987022bdd7153e-11004a8a0bc3435ba3a6a38a73358f15"
       },
       "doNotCache": false
    },
@@ -212,14 +198,14 @@
    {
       "uniqueFilename": "a22d837b6a2b46349421259c0a5411bf",
       "filename": "DefaultGame.ini",
-      "hash": "35eda743124eb86874fbbd181b4c1c815bf91a06",
-      "hash256": "63853b61b71daad91daea0b00e1dc8b1e213b5819e368cadd818e968a4c2a423",
-      "length": 671513,
+      "hash": "bdf427026e4553693f2599aeca1a1b25496b534a",
+      "hash256": "5728ead16e9d96ff43040b6b8c5203eeb020b009bf584e4de17c2bb033587581",
+      "length": 618751,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-29T17:54:38.357Z",
+      "uploaded": "2026-09-03T08:04:30.725Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/9ce439806e084c36af817cd7648f8aa3-a22d837b6a2b46349421259c0a5411bf"
+         "DSS": "cloudstorage/Live/system/1/ad4f28fe31114cae98ed37d7f964c7bd-a22d837b6a2b46349421259c0a5411bf"
       },
       "doNotCache": false
    },
@@ -234,20 +220,6 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/b6e3718e55f8468f9522ee5d470d938f-93f93825f97a48739ea8761983eae344"
-      },
-      "doNotCache": false
-   },
-   {
-      "uniqueFilename": "9d4470a08144417aa73625dd1f3e43fb",
-      "filename": "DefaultInput.ini",
-      "hash": "68d7d889322a62be7ae07c549202c7f7edb78767",
-      "hash256": "6e8add3b3e3359224c16cbdafc4e585c4dfebe11d347a4a7582c343fa5f9c9e8",
-      "length": 46,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-07-17T14:26:01.377Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/dd76f7f962f84f879ea1a1534dbb0c49-9d4470a08144417aa73625dd1f3e43fb"
       },
       "doNotCache": false
    },
@@ -296,14 +268,14 @@
    {
       "uniqueFilename": "eedca963133e4c959bef113bff80b8e8",
       "filename": "DefaultJunoGameNativeEngine.ini",
-      "hash": "9b7b2aa77a0e827a996f7c3aeacb489cf39b9c1a",
-      "hash256": "d7b815f55429a457def986e9cf20016d045b42e680e81ea96640559f5e782ed5",
-      "length": 201,
+      "hash": "e556a45dc6fe0b63c58c3b3300ffb32e1efdbb77",
+      "hash256": "c31f92a997656232c644de9a9f246fba0b941772ba6ba4cb9706b5136002f65b",
+      "length": 72,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T06:45:42.493Z",
+      "uploaded": "2026-09-03T08:04:27.505Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/084ccfd8e75949e9be4cb3b8b0003cde-eedca963133e4c959bef113bff80b8e8"
+         "DSS": "cloudstorage/Live/system/1/0fece0aa84604308bc9d3a4b9159d8fc-eedca963133e4c959bef113bff80b8e8"
       },
       "doNotCache": false
    },
@@ -448,30 +420,16 @@
       "doNotCache": false
    },
    {
-      "uniqueFilename": "ee6626bea12d4c0b8598fec420d7aa08",
-      "filename": "DefaultRiftAnomalies_Ch7S4_BaseGame.ini",
-      "hash": "8b64807ad7b639c9ddbc45cf7409bc128fdf8c3c",
-      "hash256": "f07af0e0d4b8c1751314cb4221a8d3393106808212495add2cdc16ad6a36c9b4",
-      "length": 655,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T22:19:03.493Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/7eab9b25f30f46c586734e1f5a6f7212-ee6626bea12d4c0b8598fec420d7aa08"
-      },
-      "doNotCache": false
-   },
-   {
       "uniqueFilename": "c52c1f9246eb48ce9dade87be5a66f29",
       "filename": "DefaultRuntimeOptions.ini",
-      "hash": "ae21d67c04b4ef9d97f4b03f0a0d483ab7ab2d31",
-      "hash256": "f7041dcbc389ce62ede9547f999fc5f65f2da93f6c41365f5e19fd60fd69b3e9",
-      "length": 2141,
+      "hash": "32de1a9f95b0ae9b28e8f28849920365de846cce",
+      "hash256": "c9d74d35dcacf20f34e867b8303ed75d1baad28383dd06382f2caf381087d319",
+      "length": 2189,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T16:19:17.988Z",
+      "uploaded": "2026-09-03T08:04:26.896Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/a5f7e9e89b0a4bfe80bceb4415b19120-c52c1f9246eb48ce9dade87be5a66f29"
+         "DSS": "cloudstorage/Live/system/1/92b14290482247b2976713b2d3e0e16d-c52c1f9246eb48ce9dade87be5a66f29"
       },
       "doNotCache": false
    },
@@ -604,14 +562,14 @@
    {
       "uniqueFilename": "c43d40a722c848249357f181b2386320",
       "filename": "IOS_JunoExclusiveEngine.ini",
-      "hash": "ae94f64d1da3abf01d0b412355d97f04b8f38abd",
-      "hash256": "8455cfaa33469c518f50bbdbf6ce7b1ae044f0b4e8e876a918ea91fdfeb9ba77",
-      "length": 171,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "hash256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "length": 0,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-12T20:00:29.199Z",
+      "uploaded": "2026-09-03T08:04:29.846Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/f454d83e94ab460f8cb1ac88404b716a-c43d40a722c848249357f181b2386320"
+         "DSS": "cloudstorage/Live/system/1/628f4e7ac1fd4d249feaa6dd1021b7ba-c43d40a722c848249357f181b2386320"
       },
       "doNotCache": false
    },
@@ -674,14 +632,14 @@
    {
       "uniqueFilename": "4076f7d595cc432fa6bb9d8694adcf2e",
       "filename": "PS4_Game.ini",
-      "hash": "3704c4ccf378a32a7578ff57635a0731b26b68de",
-      "hash256": "eb2a60a46b162dded5943f416d9361f5f9efbc7235b34a1484b67d3483fe21bc",
-      "length": 4884,
+      "hash": "db78e638c5d327e33673d9fba34c47f70e8e39c2",
+      "hash256": "4b9fc9d6473111a7d429064a5e086f73b7bfd20e22082f9bc34243d1ee3a1b0d",
+      "length": 4612,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-08-11T19:53:10.191Z",
+      "uploaded": "2026-09-03T08:04:28.438Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/7fe34edc1b7449fd83d7b5eeb06e6e00-4076f7d595cc432fa6bb9d8694adcf2e"
+         "DSS": "cloudstorage/Live/system/1/cf2fe4f7e5f147c3a1706fffa69234fe-4076f7d595cc432fa6bb9d8694adcf2e"
       },
       "doNotCache": false
    },
@@ -702,28 +660,14 @@
    {
       "uniqueFilename": "9e5cecff415440de8e7053dc7c4fdbfe",
       "filename": "PS5_Game.ini",
-      "hash": "c7d192c05ce73b74a7d7746f471723e7ff5af7dc",
-      "hash256": "694c08c1dc7bffad3cf90f9c04533e062b11b4d6db5c7772e1c28cd07af45369",
-      "length": 4827,
+      "hash": "3d078718ccf8fba5f407af5f0187ea41b2f684dd",
+      "hash256": "b0125749e0636929423473ef98f7f3a70520e00494e9ab492b640ac8f6664af9",
+      "length": 4554,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-03-19T06:05:26.453Z",
+      "uploaded": "2026-09-03T08:04:30.162Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/dbb222c810684888aab071686d9a95d3-9e5cecff415440de8e7053dc7c4fdbfe"
-      },
-      "doNotCache": false
-   },
-   {
-      "uniqueFilename": "5e9fc0cd2d7d473c9ddd0564698b2a1e",
-      "filename": "SpriteExtractionFrontendUIGame.ini",
-      "hash": "1c2ca0082eeee962fa00d20f2422a4b72aa77255",
-      "hash256": "5f46f89383fb6ef53d6d01a0a9782cb46c467d8ac8170e4089b344221599dcba",
-      "length": 58,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T06:45:39.375Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/f2d6077dde9c417eb2d9575707655ee9-5e9fc0cd2d7d473c9ddd0564698b2a1e"
+         "DSS": "cloudstorage/Live/system/1/b0c7b195f7f14021b376d6384af1fd4c-9e5cecff415440de8e7053dc7c4fdbfe"
       },
       "doNotCache": false
    },
