@@ -100,14 +100,14 @@
    {
       "uniqueFilename": "3460cbe1c57d4a838ace32951a4d7171",
       "filename": "DefaultEngine.ini",
-      "hash": "abef4e8ba6a7c07f46dd6564d526a61ce94c70e5",
-      "hash256": "f2b5786756ba460c325b86b9db054e11425940b6c588bf9731682d384762169e",
-      "length": 12621,
+      "hash": "7aa762ec3bf64d64a10b1a1825bacab282f78a6e",
+      "hash256": "5c15358237b96b8647acb5fd83019d09f87a49cf8524a1a1e570e3710310603e",
+      "length": 13848,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-09-16T20:26:16.176Z",
+      "uploaded": "2026-09-17T08:07:31.182Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/4c1f2de7b4b741598e5da8ac983507e7-3460cbe1c57d4a838ace32951a4d7171"
+         "DSS": "cloudstorage/Live/system/1/b1575774ba5b42a48ec718f878059274-3460cbe1c57d4a838ace32951a4d7171"
       },
       "doNotCache": false
    },
@@ -170,14 +170,14 @@
    {
       "uniqueFilename": "11004a8a0bc3435ba3a6a38a73358f15",
       "filename": "DefaultFigmentCoreGame.ini",
-      "hash": "af88a9f8ffafe7888e7949f9cb3577db813cd8f6",
-      "hash256": "41cf53aec81ad06e00f074e32676835fb6a01c79459cf5534049ad868192d377",
-      "length": 26790,
+      "hash": "be5331d6d08492fc453d7305053a3406cfe83e43",
+      "hash256": "5a6285ff79af2e30598b85e72ef590e2b681112c546576c31904ba180141f2c7",
+      "length": 152,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-09-04T18:05:39.056Z",
+      "uploaded": "2026-09-17T08:07:31.937Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/28964f0253184ff79d8c68e7bacf7388-11004a8a0bc3435ba3a6a38a73358f15"
+         "DSS": "cloudstorage/Live/system/1/021b06c7593947169e03bcc6c053b9b6-11004a8a0bc3435ba3a6a38a73358f15"
       },
       "doNotCache": false
    },
@@ -198,14 +198,14 @@
    {
       "uniqueFilename": "a22d837b6a2b46349421259c0a5411bf",
       "filename": "DefaultGame.ini",
-      "hash": "f6625077f7a549177888fae2d50a273070533ff5",
-      "hash256": "638f743c455be92b35e800376c9c9d6a5f275d4765fec16c8428522be3517bd0",
-      "length": 721856,
+      "hash": "2fd10d8945432e0c746ddc1da03f47e00ca1070e",
+      "hash256": "a2eb7d3bcf7968f91db38b3701a71862ee5a6189407572d565ff60480ca06fa9",
+      "length": 634537,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-09-16T00:01:47.561Z",
+      "uploaded": "2026-09-17T08:07:32.537Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/dd5c001b923f4a43a0986cac9335c78b-a22d837b6a2b46349421259c0a5411bf"
+         "DSS": "cloudstorage/Live/system/1/069553e5020d4fcf9dcad2b1cc852c39-a22d837b6a2b46349421259c0a5411bf"
       },
       "doNotCache": false
    },
@@ -220,6 +220,20 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/b6e3718e55f8468f9522ee5d470d938f-93f93825f97a48739ea8761983eae344"
+      },
+      "doNotCache": false
+   },
+   {
+      "uniqueFilename": "bfd31619432440369476c52284569232",
+      "filename": "DefaultHera_MapGame.ini",
+      "hash": "76a9b00c75e08525f67a84047d88405e02acb52c",
+      "hash256": "aded80bbd6f3b699d7aa223219221d76ae0253ef1a5bed5df9bcb284014ca221",
+      "length": 426,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-09-17T08:07:29.782Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/0eef42bb184d482c9550d012c3421122-bfd31619432440369476c52284569232"
       },
       "doNotCache": false
    },
@@ -422,14 +436,14 @@
    {
       "uniqueFilename": "c52c1f9246eb48ce9dade87be5a66f29",
       "filename": "DefaultRuntimeOptions.ini",
-      "hash": "d5973bdc471f8276d0112729a6b4d777f5aa7c54",
-      "hash256": "bd79e3a9add6eebaa2bf2f09925cd4309b2efeeab8609b80f4eef6b44da33de1",
-      "length": 2339,
+      "hash": "eaeed96acf3af48fbf0abd57cb95460e00930149",
+      "hash256": "dd70517f6adcabbbd38301432fd00b989fecacea22944e4af9b0730c445ee0c3",
+      "length": 2632,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-09-03T20:01:37.837Z",
+      "uploaded": "2026-09-17T08:07:30.382Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/511d87c9e5184a7f8a31748739a73b49-c52c1f9246eb48ce9dade87be5a66f29"
+         "DSS": "cloudstorage/Live/system/1/d4cfb982648f4aa39092ef742f9a4c69-c52c1f9246eb48ce9dade87be5a66f29"
       },
       "doNotCache": false
    },
@@ -444,20 +458,6 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/5424936e76e94b90bec4aed43091cd4b-3c79d44301114dec871ae272f0b8eb71"
-      },
-      "doNotCache": false
-   },
-   {
-      "uniqueFilename": "7cd90876170a4675a0f3fba3e41d5794",
-      "filename": "DefaultSproutNativeEngine.ini",
-      "hash": "5f018302f5c52b600bd289ffc2c1b0cd2ea92d72",
-      "hash256": "762fc9ef922b69313c5dbca3de6630f7f5e076aa7f097e6b38e490ad75146ccf",
-      "length": 73,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-08-20T18:56:34.113Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/35d0a5fad60d428a918e1905b3b29bb0-7cd90876170a4675a0f3fba3e41d5794"
       },
       "doNotCache": false
    },
@@ -612,20 +612,6 @@
       "storageType": "DSS",
       "storageIds": {
          "DSS": "cloudstorage/Live/system/1/38dc700d4994453f8638b04cdaee1e62-367222eccaea4723be5c34939effcca1"
-      },
-      "doNotCache": false
-   },
-   {
-      "uniqueFilename": "88792f5fe93a4341ae81a1b737e55924",
-      "filename": "MSGameStore_Engine.ini",
-      "hash": "0386e6b4f8b4998ef70e5c6d97c2e4cb6ea7f5e2",
-      "hash256": "957e0bb372ceafe9da1c20f89b2a4ef45c755d28f0981d094dd162c060a91560",
-      "length": 52,
-      "contentType": "application/octet-stream",
-      "uploaded": "2026-09-03T22:19:56.368Z",
-      "storageType": "DSS",
-      "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/0f525c9e232d4e5db6e4e3e69138595d-88792f5fe93a4341ae81a1b737e55924"
       },
       "doNotCache": false
    },
