@@ -226,14 +226,14 @@
    {
       "uniqueFilename": "bfd31619432440369476c52284569232",
       "filename": "DefaultHera_MapGame.ini",
-      "hash": "76a9b00c75e08525f67a84047d88405e02acb52c",
-      "hash256": "aded80bbd6f3b699d7aa223219221d76ae0253ef1a5bed5df9bcb284014ca221",
-      "length": 426,
+      "hash": "4b87f473b55d4f896f570b0ea089700dbc9f5afb",
+      "hash256": "adf0bac13484dece7eb38fae4f8a860f82618bfb8009266aa8111633af85bbb3",
+      "length": 197,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-09-17T08:07:29.782Z",
+      "uploaded": "2026-09-21T11:00:00.293Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/0eef42bb184d482c9550d012c3421122-bfd31619432440369476c52284569232"
+         "DSS": "cloudstorage/Live/system/1/3b9777845f7c47e096bb4626c5d5eb05-bfd31619432440369476c52284569232"
       },
       "doNotCache": false
    },
