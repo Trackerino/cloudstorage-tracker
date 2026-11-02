@@ -112,6 +112,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "fd6097564e68476f9a5b671b0da4f38a",
+      "filename": "DefaultEvent_Delilah_WeeklyGame.ini",
+      "hash": "9e6a75c7e427881ed928d000070bd6a15ea6d80b",
+      "hash256": "ebf77a03c3373960bc42819de315f2e2d67f5398e9aa57a35664f5ad167043ac",
+      "length": 1929,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-02T14:58:10.789Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/7a00102242ff43e4859253c03b91f6db-fd6097564e68476f9a5b671b0da4f38a"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "7519111d21de4c8fbaedff98b78e7f97",
       "filename": "DefaultForbiddenFruitEngine.ini",
       "hash": "4ca2d192815a4453129db48b031bc0eab1f12418",
