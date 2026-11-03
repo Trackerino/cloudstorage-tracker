@@ -70,6 +70,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "dc3aae7def2e4a54adc2a8172c8ce081",
+      "filename": "DefaultCompetitiveOnlineEngine.ini",
+      "hash": "8e1c6475bb62fe8254049ff00fc72de6b9001794",
+      "hash256": "6815e5c71041bf8bf054179ce2df0bcdf2455ef1d036bc9be446bbc3a145a055",
+      "length": 72,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-03T21:59:23.084Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a1a746184acd49c1aed2a20b9d06ba49-dc3aae7def2e4a54adc2a8172c8ce081"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "9cda36e8b27f4a9baecd33d24b740be8",
       "filename": "DefaultCompetitiveOnlineGame.ini",
       "hash": "8ff359ad110842af5ae14f500f943fb63745429b",
@@ -100,14 +114,14 @@
    {
       "uniqueFilename": "3460cbe1c57d4a838ace32951a4d7171",
       "filename": "DefaultEngine.ini",
-      "hash": "014e0af075b6c66823296cc05983307b801db5e2",
-      "hash256": "4815657dae171f3c441fe8ece575584f484a688c01d28771cf3dadf51f598c77",
-      "length": 11219,
+      "hash": "cc54d01b384d7bf86f30b5bcc28de4a9f2cad1fd",
+      "hash256": "aeffa147ffc5d7d3eb695050d2f2cb0d753499c751143f4dc67c51d680293910",
+      "length": 11270,
       "contentType": "application/octet-stream",
-      "uploaded": "2026-11-03T20:52:03.286Z",
+      "uploaded": "2026-11-03T21:59:23.369Z",
       "storageType": "DSS",
       "storageIds": {
-         "DSS": "cloudstorage/Live/system/1/0a8037d88ed648529ca854c397f62d06-3460cbe1c57d4a838ace32951a4d7171"
+         "DSS": "cloudstorage/Live/system/1/8054c41880c7421790e8126e9b433d49-3460cbe1c57d4a838ace32951a4d7171"
       },
       "doNotCache": false
    },
