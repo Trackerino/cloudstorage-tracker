@@ -140,6 +140,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "c5ced2b42c9447c4b4d1421c6f8f849f",
+      "filename": "DefaultFigmentCoreGame.ini",
+      "hash": "f9eb2bbd1a1321be4c3ab8d042d6e155e0d6007d",
+      "hash256": "0bcff36073f4bd4d4a8ff8c4e34f87fc4dd7cba38e959f3f459b4f4919ae3b9e",
+      "length": 10323,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-04T22:03:55.223Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a05bc78ec29b40bcaf76641c61818916-c5ced2b42c9447c4b4d1421c6f8f849f"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "7519111d21de4c8fbaedff98b78e7f97",
       "filename": "DefaultForbiddenFruitEngine.ini",
       "hash": "4ca2d192815a4453129db48b031bc0eab1f12418",
