@@ -98,6 +98,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "2050056a4b734427924b1aa64625ae4b",
+      "filename": "DefaultDeviceProfiles.ini",
+      "hash": "f59545e490654a4a78c3ec5aeff21b68fb1b23ca",
+      "hash256": "adf9794c53955c5471dbadf90a63d89376a83b295abad45863159ade55d33127",
+      "length": 96,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-13T17:31:16.772Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/25f3434718214286b6a289acaf4ee693-2050056a4b734427924b1aa64625ae4b"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "ba905cc6a853447fb5d6cf41b0ec68d0",
       "filename": "DefaultEditor.ini",
       "hash": "f1fb796da2a043e9d243e06c91bc73cd3a787f5f",
