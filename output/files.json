@@ -616,6 +616,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "dc9466b8ce804bd38e3930ff739ab9a0",
+      "filename": "Switch_VkPlayEngine.ini",
+      "hash": "d18f2e77f5d089b67ef066925c63240a670caa64",
+      "hash256": "1f1a226e76e365ff63a19f7b44b6e863c504919cd0a4ccd316bc1d9810c490a9",
+      "length": 68,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-17T18:30:37.889Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/0a24f8dadae247a4b4a91d1220511a41-dc9466b8ce804bd38e3930ff739ab9a0"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "14f0dc3454684352b21220e757229121",
       "filename": "Switch2_Engine.ini",
       "hash": "db4e4b2418ac6cdc8553de375174f8082194e644",
