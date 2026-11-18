@@ -742,6 +742,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "58a2591764f74ecd9769a7a2740cd279",
+      "filename": "WindowsClient_Editor.ini",
+      "hash": "6e32b74e3526a15f2c0416f3b9ca2957a8be2111",
+      "hash256": "331f7715a2d076e58d5270090e0029bcf6200502cc2db09f664ce787979e69aa",
+      "length": 46,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-18T13:00:03.230Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/954f2d2a581547759542e705b7a8eca6-58a2591764f74ecd9769a7a2740cd279"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "b6c60402a72e4081a6a47c641371c19f",
       "filename": "WindowsClient_Engine.ini",
       "hash": "7504a2cadf1a210e52676259b4216358e4e0a8a4",
