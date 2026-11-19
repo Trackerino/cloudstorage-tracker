@@ -630,6 +630,20 @@
       "doNotCache": false
    },
    {
+      "uniqueFilename": "cd6d80e466ba43ef9e1b29744ad094a2",
+      "filename": "Switch2_CreativeCoreEngine.ini",
+      "hash": "cf6773bc65e62e2f54a608fd1de32d00eedb0467",
+      "hash256": "e7cc23e62bc69ea46be347b7ffd836981530f33e62488b40964cc9268483a046",
+      "length": 40,
+      "contentType": "application/octet-stream",
+      "uploaded": "2026-11-19T17:37:47.756Z",
+      "storageType": "DSS",
+      "storageIds": {
+         "DSS": "cloudstorage/Live/system/1/a41e89f755354467871323390bf970d0-cd6d80e466ba43ef9e1b29744ad094a2"
+      },
+      "doNotCache": false
+   },
+   {
       "uniqueFilename": "14f0dc3454684352b21220e757229121",
       "filename": "Switch2_Engine.ini",
       "hash": "db4e4b2418ac6cdc8553de375174f8082194e644",
